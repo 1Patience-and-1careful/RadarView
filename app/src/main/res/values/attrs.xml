@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+
+    <declare-styleable name="RadarView">
+        <attr name="r_line_color" format="color" /><!--雷达图蛛网颜色-->
+        <attr name="r_count" format="integer" /><!--雷达图端点数-->
+        <attr name="r_maxValue" format="float" /><!--雷达图最大数值-->
+    </declare-styleable>
+</resources>
